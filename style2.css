@@ -1,0 +1,25 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 24px;
+    align-items: left;
+}
+
+.navmenu {
+    display: flex;
+    list-style: none;
+    column-gap: 12px;
+    align-items: right;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: rgb(83, 138, 228);
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+}
+
+
